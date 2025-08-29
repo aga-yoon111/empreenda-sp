@@ -1,8 +1,8 @@
-# EmpreendaSP — Protótipo (Versão Melhorada)
+# EmpreendaSP — Protótipo
 
 Arquivos principais:
 - `app/` — Flask app com frontend e backend.
-- `data/businesses.csv` — CSV com exemplos (5 linhas). Substitua conforme necessário.
+- `data/businesses.csv` — CSV com 1000 ideias de negócios e detalhes. 
 - Rode localmente com:
   ```bash
   pip install flask
