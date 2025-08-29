@@ -1,4 +1,4 @@
-# EmpreendaSP — Protótipo
+# EmpreendaSP 🚀
 
 Arquivos principais:
 - `app/` — Flask app com frontend e backend.
