@@ -11,4 +11,4 @@ Arquivos principais:
 - Acesse `http://127.0.0.1:5000`.
 - Frontend usa Tailwind CDN (sem build) e Font Awesome CDN.
 
-OBS.: Esse projeto é apenas um protótipo da ideia desenvolvida. Pode conter erros.
+OBS.: Este é apenas um protótipo da ideia desenvolvida. Pode conter erros.
