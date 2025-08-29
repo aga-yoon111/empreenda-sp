@@ -1,0 +1,7 @@
+.high-contrast, .high-contrast * {
+  background-color: black !important;
+  color: white !important;
+  border-color: #666 !important;
+}
+.high-contrast a { color: yellow !important; }
+:focus { outline: 3px solid #ff0 !important; outline-offset: 2px; }
